@@ -1,0 +1,11 @@
+/* Additive styles for /rain-sounds, /blog, /mix. Loaded after styles.css. */
+.prose { max-width: 760px; }
+.prose h2 { margin: 2.2rem 0 0.6rem; font-family: var(--display); font-weight: 400; font-size: clamp(1.6rem, 3vw, 2.2rem); }
+.prose h3 { margin: 1.4rem 0 0.3rem; font-size: 1.05rem; }
+.prose p, .prose li { color: #c4ccdc; }
+.prose table { width: 100%; border-collapse: collapse; margin: 1rem 0 1.6rem; font-size: 0.92rem; }
+.prose th, .prose td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+.prose th { color: var(--silver); }
+.cta-row { margin: 1.6rem 0 0.4rem; display: flex; flex-wrap: wrap; gap: 12px; }
+.fine { color: var(--muted); font-size: 0.82rem; }
+footer p { color: var(--muted); font-size: 0.85rem; }
