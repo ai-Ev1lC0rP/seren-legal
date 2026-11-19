@@ -1,6 +1,6 @@
-# La-Lo-Ka Website
+# Raincove Website
 
-Public marketing, privacy, and support pages for the La-Lo-Ka iOS app.
+Public marketing, privacy, and support pages for the Raincove iOS app.
 
 - Home: https://ai-ev1lc0rp.github.io/seren-legal/
 - Privacy: https://ai-ev1lc0rp.github.io/seren-legal/privacy.html
